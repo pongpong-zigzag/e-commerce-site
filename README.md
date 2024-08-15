@@ -47,10 +47,10 @@ Welcome to the repository for our full stack eCommerce website built using the P
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/HarmanPreet-Singh-XYT/E-Commerce.git
+   git clone https://github.com/pongpong-zigzag/e-commerce-site.git
 2. Navigate to the project directory:
    ```sh
-   cd ecommerce-website
+   cd e-commerce-site
 3. Install dependencies for the server:
    ```sh
    cd Server & npm install
